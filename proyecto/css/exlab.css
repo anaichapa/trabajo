@@ -1,0 +1,15 @@
+body{
+	color: black;
+	background-color: orange;
+	font-family: Helvetica;
+}
+.navbar{
+	list-style-type: none;
+	text-align: center;
+	margin; auto;
+}
+.navbar li{
+	display: inline-block;
+
+}
+}

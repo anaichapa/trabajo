@@ -1,0 +1,13 @@
+body{
+	color: brown;
+	background-color: white;
+}
+.navbar{
+	list-style-type: none;
+	text-align: center;
+	margin; auto;
+}
+.navbar li{
+	display: inline-block;
+
+}

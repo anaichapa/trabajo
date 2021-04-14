@@ -1,0 +1,19 @@
+body{
+	color: black;
+	background-color: coral
+}
+.navbar {
+	list-style-type: none;
+   text-align: center;
+	margin: auto;
+}
+
+.navbar li{
+	
+	text-align: center;}
+
+h3{
+	text-align: center;
+	color: black;
+
+}
